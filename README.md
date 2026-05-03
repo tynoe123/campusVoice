@@ -1,0 +1,2 @@
+# campusVoice
+A secure, anonymous platform for university students to report issues, featuring AI-powered complaint clustering and an administrative dashboard for institutional responsiveness.
