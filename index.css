@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-university-green: #009639;
+  --color-university-yellow: #FFC72C;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900;
+  }
+}
